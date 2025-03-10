@@ -36,10 +36,3 @@ Built a **Streamlit-based dashboard** with two sections:
 - **AWS RDS** (OLTP & OLAP Databases)  
 - **Streamlit** (Dashboard & Deployment)  
 
-## 📸 Screenshots  
-*(Add some images of your dashboard here!)*  
-
-## 🔗 Setup & Usage  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
